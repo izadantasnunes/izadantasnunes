@@ -90,7 +90,7 @@ Plataforma com vendas, cadastro e rastreio
 
 ### 📫 Contato
 
-- 💼 LinkedIn: [COLOCA_SEU_LINK_AQUI](https://www.linkedin.com/in/izabellynunes)
+- 💼 LinkedIn: (https://www.linkedin.com/in/izabellynunes)
 - 📍 São Paulo - Brasil
 
 ---
