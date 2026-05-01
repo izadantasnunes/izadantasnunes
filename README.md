@@ -1,49 +1,47 @@
-<h1 align="center">👋 Olá, eu sou a Iza</h1>
+<h1 align="center">👋 Iza Dantas</h1>
 
 <p align="center">
-Front-End Web Developer | React | UX/UI | Marketing & Growth 🚀
+Front-End Engineer | React | Angular | TypeScript | APIs | UX/UI | Growth 🚀
 </p>
 
 ---
 
-### 💻 Sobre mim
+### 💻 Sobre
 
-Sou desenvolvedora Front-End focada em criar interfaces modernas, responsivas e orientadas à experiência do usuário.
+Front-End Developer focada em interfaces modernas, performance e conversão.
 
-Tenho background em Publicidade, Marketing e Growth, o que me permite desenvolver produtos digitais com visão estratégica — não apenas funcionais, mas pensados para conversão, performance e resultado.
-
-Também possuo experiência com WordPress e PHP, integrando front-end com soluções completas para negócios digitais.
+Background em Marketing & Growth, atuando na construção de produtos digitais com visão estratégica, UX e impacto em negócio.
 
 ---
 
-### 🚀 Tecnologias
+### 🚀 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind" />
 </p>
 
 ---
 
-### ⚙️ Back-End & CMS
+### ⚙️ Back-End & Integrações
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,wordpress,nodejs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,wordpress" />
+  <img src="https://img.shields.io/badge/API-REST-ff6c37?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
 ---
 
-### 🎨 UX/UI & Design
+### 🎨 Design
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40"/>
 </p>
 
 ---
 
-### 🛠️ Ferramentas
+### 🛠️ Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -51,52 +49,30 @@ Também possuo experiência com WordPress e PHP, integrando front-end com soluç
 
 ---
 
-### 🗄️ Banco de Dados
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
----
-
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=izadantasnunes&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izadantasnunes&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=izadantasnunes&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izadantasnunes&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
-
----
-
-### 🚀 Projetos em Destaque
-
-- 💳 **FlowPay (Fintech)**  
-Sistema de gestão financeira com controle de fluxo de caixa  
-
-- 📊 **Nexus CRM**  
-Dashboard com pipeline de vendas, ranking e análise  
-
-- 💄 **E-commerce de Maquiagem**  
-Plataforma com vendas, cadastro e rastreio  
 
 ---
 
 ### 🎯 Diferencial
 
-- Interfaces com foco em UX e conversão  
-- Visão estratégica de marketing aplicada ao desenvolvimento  
-- Experiência com funil, jornada do usuário e produto digital  
-- Integração front-end com WordPress e PHP  
+- UX orientado à conversão  
+- Visão de produto + growth  
+- Integração front + back + APIs  
 
 ---
 
 ### 📫 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/izabellynunes
-- 📍 São Paulo - Brasil
+- 💼 LinkedIn: https://www.linkedin.com/in/izabellynunes  
+- 📍 São Paulo - Brasil  
 
 ---
 
 <p align="center">
-✨ Transformando código em experiência e resultado
+✨ Code + UX + Growth
 </p>
