@@ -2,8 +2,8 @@
 
 **`Front-End Engineer | UX/UI`**
 
-Desenvolvedora Front-End com mais de 10 anos de experiência em produtos digitais.
-Uno tecnologia, UX/UI e estratégia de marketing para construir interfaces performáticas, orientadas à conversão e impacto de negócio.
+Desenvolvedora Front-End com mais de 10 anos de experiência em produtos digitais.  
+Uno tecnologia, UX/UI e estratégia de marketing para construir interfaces performáticas, orientadas à conversão e impacto de negócio.  
 Em formação como Full Stack Engineer, ampliando atuação técnica em arquitetura e back-end.
 
 ---
@@ -29,101 +29,46 @@ Em formação como Full Stack Engineer, ampliando atuação técnica em arquitet
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Angular"
-    title="Angular" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node"
-    title="Node.js" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
-/>
+<p>
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+</p>
 
-<br/>
 <br/>
 
 ### 🎨 UX/UI & Design
 
-<img 
-    align="left" 
-    alt="Figma"
-    title="Figma" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Photoshop"
-    title="Photoshop" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="Illustrator"
-    title="Illustrator" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" 
-/>
+<p>
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg"/>
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg"/>
+</p>
 
-<br/>
-<br/>
+<br/><br/>
 
 ### 📊 Estatísticas
 
-<div align="center"> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=izadantasnunes&show_icons=true&theme=radical"/> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izadantasnunes&layout=compact&theme=radical"/> 
-  <img src="https://streak-stats.demolab.com?user=izadantasnunes&theme=tokyonight"/> </div>
+<p align="center">
+  <img 
+    height="170" 
+    src="https://streak-stats.demolab.com?user=izadantasnunes&theme=tokyonight&hide_border=true" 
+  />
+</p>
 
+<p align="center">
+  <img 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=izadantasnunes&layout=compact&theme=tokyonight&langs_count=8" 
+  />
+</p>
 
+---
+
+<p align="center">
+✨ Code + UX/UI + Growth
+</p>
