@@ -1,66 +1,87 @@
-<h1 align="center">👋 Iza Nunes</h1>
+<h1 align="center">👋 Olá, eu sou a Iza</h1>
 
 <p align="center">
-  <b>Front-End Engineer</b> • TypeScript • React • Angular • APIs • UX/UI • Growth
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/izabellynunes">
-    <img src="https://img.shields.io/badge/LinkedIn-izabellynunes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:izadantasnunes@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+Front-End Engineer | UX/UI 
 </p>
 
 ---
 
-## ✨ About
+### 💻 Sobre mim
 
-```ts
-export const iza = {
-  role: "Front-End Engineer",
-  location: "São Paulo, BR",
+Desenvolvedora Front-End focada em criar interfaces modernas, responsivas e orientadas à experiência do usuário.
+Background em Marketing e Growth, aplicando visão estratégica na construção de produtos digitais com foco em performance e conversão.
 
-  stack: ["React", "TypeScript", "Angular", "Node.js"],
-  focus: ["UX/UI", "Performance", "APIs", "Growth"],
+---
 
-  mindset: "I don't just build interfaces — I build products that convert.",
+### 🚀 Tecnologias
 
-  currentlyLearning: ["Next.js", "AI integration"],
-};
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind" />
+</p>
 
-🧩 Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,nodejs,php,wordpress" /> </p>
-🎨 Design
-<p align="center"> <img src="https://skillicons.dev/icons?i=figma" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="45"/> </p>
-📊 GitHub Activity
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=izadantasnunes&theme=tokyonight&hide_border=true"/> </p>
-🚀 Featured Projects
-<table> <tr> <td width="33%">
-💳 FlowPay
+---
 
-Financial dashboard
-UX + cash flow + analytics
+### ⚙️ Back-End & Integrações
 
-</td> <td width="33%">
-📊 Nexus CRM
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,php,wordpress" />
+</p>
 
-Sales pipeline
-Data + performance
+<p align="center">
+  <img src="https://img.shields.io/badge/API-REST-ff6c37?style=flat&logo=postman&logoColor=white"/>
+</p>
 
-</td> <td width="33%">
-💄 E-commerce
+---
 
-Beauty platform
-Conversion + UX
+### 🎨 UX/UI & Design
 
-</td> </tr> </table>
-💡 Diferencial
-🧠 UX orientado à conversão
-📊 Visão de produto + growth
-🔗 Integração front + APIs
-🚀 Pensamento estratégico (não só código)
-📫 Contact
-<p align="center"> 💼 <a href="https://www.linkedin.com/in/izabellynunes">LinkedIn</a> • 📧 <a href="mailto:seuemail@email.com">Email</a> • 📍 São Paulo - Brasil </p>
-<p align="center"> ✨ Code meets Product </p> ```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40"/>
+</p>
+
+---
+
+### 🛠️ Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+### 🗄️ Banco de Dados
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=izadantasnunes&theme=tokyonight&hide_border=true"/>
+</p>
+---
+
+### 🎯 Diferencial
+
+- Interfaces com foco em UX e conversão  
+- Visão estratégica de marketing aplicada ao desenvolvimento  
+- Experiência com funil, jornada do usuário e produto digital  
+- Integração front-end com APIs e CMS  
+
+---
+
+### 📫 Contato
+
+- 💼 LinkedIn: https://www.linkedin.com/in/izabellynunes  
+- 📍 São Paulo - Brasil  
+
+---
+
+<p align="center">
+✨ Transformando código em experiência e resultado
+</p>
