@@ -37,6 +37,8 @@ Também possuo experiência com WordPress e PHP, integrando front-end com soluç
 <p>
   <img src="https://skillicons.dev/icons?i=figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40"/>
 </p>
 
 ---
@@ -90,7 +92,7 @@ Plataforma com vendas, cadastro e rastreio
 
 ### 📫 Contato
 
-- 💼 LinkedIn: (https://www.linkedin.com/in/izabellynunes)
+- 💼 LinkedIn: https://www.linkedin.com/in/izabellynunes
 - 📍 São Paulo - Brasil
 
 ---
