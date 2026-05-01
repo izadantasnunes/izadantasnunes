@@ -14,7 +14,7 @@ Em formação como Full Stack Engineer, ampliando atuação técnica em arquitet
             alt="linkedin" 
             title="Conecte-se comigo" 
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
+        />     
     </a>
     <a href="mailto:izadantasnunes@gmail.com">
         <img 
@@ -38,6 +38,39 @@ Em formação como Full Stack Engineer, ampliando atuação técnica em arquitet
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 </p>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
 
 <br/>
 
@@ -57,13 +90,6 @@ Em formação como Full Stack Engineer, ampliando atuação técnica em arquitet
   <img 
     height="170" 
     src="https://streak-stats.demolab.com?user=izadantasnunes&theme=tokyonight&hide_border=true" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=izadantasnunes&layout=compact&theme=tokyonight&langs_count=8" 
   />
 </p>
 
