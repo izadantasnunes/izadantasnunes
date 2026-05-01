@@ -2,7 +2,7 @@
 
 **`Front-End Engineer | UX/UI`**
 
-Desenvolvedora Front-End com mais de 10 anos de experiência em produtos digitais.  
+Desenvolvedora Front-End com experiência em produtos digitais.  
 Uno tecnologia, UX/UI e estratégia de marketing para construir interfaces performáticas, orientadas à conversão e impacto de negócio.  
 Em formação como Full Stack Engineer, ampliando atuação técnica em arquitetura e back-end.
 
